@@ -5,7 +5,6 @@ When working on simple Arduino projects that need basic navigation or input, the
 │  ├ discovery  
 │  └ detection  
 └ schema  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ part  
 
 ## Documentation
 Discover a world of knowledge hosted on [HiBit website](https://www.hibit.dev). Serving as your informational hub, this resource offers clear instructions and valuable insights to explore a spectrum of articles, tutorials, stories, news, and beyond.  
